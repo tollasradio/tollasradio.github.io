@@ -3,7 +3,7 @@ title: "About"
 date: 2018-02-15T10:49:02+01:00
 ---
 
-Ez a **Tollas Rádió,** Csallóköz első rádiójának weboldala.
+Ez itt a **Tollas Rádió** weboldala.
 
 [Facebook](https://facebook.tollas.org "Tollas a Facebookon")
 
