@@ -18,7 +18,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push git@github.com:tollasradio/tollasradio.github.io.git master
 
 # Come Back up to the Project Root
 cd ..
