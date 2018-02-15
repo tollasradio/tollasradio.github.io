@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tollasradio.github.io/about/</loc>
+    <loc>http://tollas.org/about/</loc>
     <lastmod>2018-02-15T10:49:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tollasradio.github.io/contact/</loc>
+    <loc>http://tollas.org/contact/</loc>
     <lastmod>2018-02-15T10:49:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tollasradio.github.io/categories/</loc>
+    <loc>http://tollas.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tollasradio.github.io/tags/</loc>
+    <loc>http://tollas.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tollasradio.github.io/</loc>
+    <loc>http://tollas.org/</loc>
     <lastmod>2018-02-15T10:49:02+01:00</lastmod>
     <priority>0</priority>
   </url>
