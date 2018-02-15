@@ -1,4 +1,4 @@
-baseurl             = "https://tollasradio.github.io/"   # Your domain name. Must end with "/"
+baseurl             = "http://tollas.org/"   # Your domain name. Must end with "/"
 languageCode        = "hu-hu"
 title               = "Tollas Rádió"
 theme               = "introduction"
