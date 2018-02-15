@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tollas Rádió</title>
-    <link>https://tollas.org/</link>
+    <link>https://tollasradio.github.io/</link>
     <description>Recent content on Tollas Rádió</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
     <lastBuildDate>Thu, 15 Feb 2018 10:49:02 +0100</lastBuildDate>
     
-	<atom:link href="https://tollas.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tollasradio.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://tollas.org/about/</link>
+      <link>https://tollasradio.github.io/about/</link>
       <pubDate>Thu, 15 Feb 2018 10:49:02 +0100</pubDate>
       
-      <guid>https://tollas.org/about/</guid>
-      <description>Ez a Tollas Rádió, Csallóköz első rádiójának weboldala.
+      <guid>https://tollasradio.github.io/about/</guid>
+      <description>Ez itt a Tollas Rádió weboldala.
 Facebook
 Mixcloud
 HTML5 player
@@ -26,10 +26,10 @@ Stream URL (lofi) (hifi)</description>
     
     <item>
       <title>Contact</title>
-      <link>https://tollas.org/contact/</link>
+      <link>https://tollasradio.github.io/contact/</link>
       <pubDate>Thu, 15 Feb 2018 10:49:02 +0100</pubDate>
       
-      <guid>https://tollas.org/contact/</guid>
+      <guid>https://tollasradio.github.io/contact/</guid>
       <description></description>
     </item>
     
