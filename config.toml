@@ -1,0 +1,75 @@
+baseurl             = "https://tollas.org/"   # Your domain name. Must end with "/"
+languageCode        = "hu-hu"
+title               = "Tollas Rádió"
+theme               = "introduction"
+#publishDir          = "docs"
+enforce_ssl         = true
+builddrafts         = false                             # Include pages with draft status of true
+canonifyurls        = true                              # Turns relative urls into absolute urls
+# disqusshortname   = "xxx"                             # Enable Disqus for comments
+# googleAnalytics   = "xxx"
+
+[params]
+    bloghead            = "Blog"                        # Full name shows on blog post pages
+    firstname           = "Tollas Rádió"                # First name shows in introduction on main page
+    tagline             = "Csallóköz első rádiója"       # Appears after the introduction
+    introheight         = "fullheight"                       # Input either 'medium' or 'large' or 'fullheight'
+    themestyle          = "dark"                        # Choose 'light' or 'dark'
+    avatar              = "img/avatar.png"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    email               = "tollas@tollas.org"         # Shows in contact section, or leave blank to omit
+    localtime           = true                          # Show your current local time in contact section
+    timezone            = "Europe/Bratislava"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    dateform            = "Jan 2, 2006"
+    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    cachebuster         = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
+    description         = "A Tollas Rádió weboldala"        # Max 160 characters show in search results
+    faviconfile         = "img/favicon.ico"
+    pygmentsStyle       = "fruity"                     # Choose theme: https://help.farbox.com/pygments.html
+    pygmentsCodeFences  = true
+    footertext          = ""                            # Text to show in footer (overrides default text)
+    fadein              = true                          # Turn on/off the fade-in effect
+
+    showblog            = false                          # Show Blog section on home page
+    showprojects        = false                          # Show Projects section on home page
+    projectcolumns      = "3"                           # Choose "2" or "3" columns for projects section
+    placeholderimg      = "/img/workday.jpg"            # For Projects without image
+    showallposts        = false                         # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
+    showlatest          = true                          # Show latest blog post summary
+    sharebuttons        = true                          # On post pages, show share this social buttons
+
+    # Share buttons
+    sharetwitter        = true
+    sharefacebook       = true
+    sharepinterest      = false
+    sharegoogleplus     = false
+
+# Social icons appear in introduction and contact section. Add as many more as you like.
+# Find icon names here: http://fontawesome.io/cheatsheet/
+
+#[[params.social]]
+#    url = "https://twitter.com/"
+#    icon = "twitter"
+
+[[params.social]]
+    url = "https://facebook.com/tollasradio/"
+    icon = "facebook"
+
+[[params.social]]
+    url = "https://mixloud.com/tollasradio/"
+    icon = "mixcloud"
+
+[[params.social]]
+    url = "http://player.tollas.org/"
+    icon = "headphones"
+
+[[params.social]]
+    url = "http://stream.tollas.org/"
+    icon = "assistive-listening-systems"
+
+[[params.social]]
+    url = "https://www.youtube.com/channel/UCJ4fY8w1ogOy3enH31800bA/"
+    icon = "youtube"
+
+[[params.social]]
+    url = "https://github.com/tollasradio/"
+    icon = "github"
